@@ -18,6 +18,12 @@
  - `Procfile`,`setup.sh` is used for the deployment
  - *all the remaining files are support files* 
 
+## ScreenShots :
+LightMode
+![lightmode](https://github.com/pavan-elisetty/team-checkin-app/blob/main/images/1.jpg)
+DarkMode
+![DarkMode](https://github.com/pavan-elisetty/team-checkin-app/blob/main/images/2.jpg)
+
 ## Deployment :
 [app](https://team-checkin-application.herokuapp.com/)
 
