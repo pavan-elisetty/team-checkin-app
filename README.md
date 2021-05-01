@@ -41,4 +41,4 @@
 4. Enter  `CTRL+C` once you are done.
 
 
-[MIT License](https://github.com/pavan-elisetty/team-checkin-application/blob/main/LICENSE)
+[MIT License](https://github.com/pavan-elisetty/team-checkin-app/blob/main/LICENSE)
