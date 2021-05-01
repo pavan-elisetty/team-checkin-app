@@ -1,4 +1,4 @@
-# A *simple* team attendence/checkin system
+# A *simple* team attendence/checkin application
 
 - This repository consists the python code that is used to build. 
 - It is developed with streamlit.
